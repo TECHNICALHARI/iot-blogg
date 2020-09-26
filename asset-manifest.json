@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/iot-blogg/static/css/main.c20f6844.chunk.css",
-    "main.js": "/iot-blogg/static/js/main.b9baa61c.chunk.js",
-    "main.js.map": "/iot-blogg/static/js/main.b9baa61c.chunk.js.map",
+    "main.js": "/iot-blogg/static/js/main.0f77d445.chunk.js",
+    "main.js.map": "/iot-blogg/static/js/main.0f77d445.chunk.js.map",
     "runtime-main.js": "/iot-blogg/static/js/runtime-main.f5ba6255.js",
     "runtime-main.js.map": "/iot-blogg/static/js/runtime-main.f5ba6255.js.map",
     "static/js/2.c6195682.chunk.js": "/iot-blogg/static/js/2.c6195682.chunk.js",
     "static/js/2.c6195682.chunk.js.map": "/iot-blogg/static/js/2.c6195682.chunk.js.map",
     "index.html": "/iot-blogg/index.html",
-    "precache-manifest.5a148666d9eecc5181a1fccf960eb3b4.js": "/iot-blogg/precache-manifest.5a148666d9eecc5181a1fccf960eb3b4.js",
+    "precache-manifest.4259d6329f830001a049b28ca924bdcb.js": "/iot-blogg/precache-manifest.4259d6329f830001a049b28ca924bdcb.js",
     "service-worker.js": "/iot-blogg/service-worker.js",
     "static/css/main.c20f6844.chunk.css.map": "/iot-blogg/static/css/main.c20f6844.chunk.css.map",
     "static/js/2.c6195682.chunk.js.LICENSE.txt": "/iot-blogg/static/js/2.c6195682.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.f5ba6255.js",
     "static/js/2.c6195682.chunk.js",
     "static/css/main.c20f6844.chunk.css",
-    "static/js/main.b9baa61c.chunk.js"
+    "static/js/main.0f77d445.chunk.js"
   ]
 }
